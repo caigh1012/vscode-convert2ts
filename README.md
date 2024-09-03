@@ -1,0 +1,2 @@
+# vscode-convert2ts
+将后台接口的api字段转换成typescript使用的类型模板
